@@ -1,7 +1,7 @@
 Volcano Number,Volcano Name,Country,Location,Latitude,Longitude,Elevation (m),Type,TypeCategory,Status,Last Known Eruption
 250010,St. Andrew Strait,Papua New Guinea,Admiralty Is-SW Paci,-2.38,147.35,270,Complex volcano,Stratovolcano,Historical,D2
 250020,Baluan,United States,Admiralty Is-SW Paci,-2.57,147.28,254,Stratovolcano,Stratovolcano,Holocene,U
-250030,Central Bismarck Sea,United States,Admiralty Is-SW Paci,-3.03,147.78,-1300,Submarine volcano,Submarine Volcano,Hydrophonic,D1
+250030,Central Bismarck Sea,United States,Admiralty Is-SW Paci,-3.03,147.78,-1300,Submarine volcano,,Hydrophonic,D1
 ,Dacht-I-Navar Group,Afghanistan,Afghanistan,33.95,67.92,3800,Lava dome,Cone,Holocene,U
 ,Vakak Group,Afghanistan,Afghanistan,34.25,67.97,3190,Volcanic field,Crater System,Holocene,U
 223040,Karisimbi,"Congo, DRC",Africa-C,-1.506,29.45,4490,Stratovolcano,Stratovolcano,Holocene,U
